@@ -4,6 +4,11 @@ Travel Agency Project using Bootstrap & Wow.js
 
 <div align="center">
 [Travel Website Link](https://61376b8d38b21bb52ffe92fa--modest-banach-d3fe93.netlify.app/)
+</div>
+<br>
+<br>
+
+<div align="center">
 <img src="https://github.com/nouraan-ahmed/Travel/blob/master/Travel/img/out1.jpeg" width="850" height="500" > 
 <img src="https://github.com/nouraan-ahmed/Travel/blob/master/Travel/img/out2.jpeg" width="850" height="500" >
 <img src="https://github.com/nouraan-ahmed/Travel/blob/master/Travel/img/out3.jpeg" width="850" height="500" > 
