@@ -3,7 +3,7 @@ Travel Agency Project using Bootstrap & Wow.js
 ## Website
 
 <div align="center">
-[Travel Website Link](https://61376b8d38b21bb52ffe92fa--modest-banach-d3fe93.netlify.app/)
+[Travel](https://61376b8d38b21bb52ffe92fa--modest-banach-d3fe93.netlify.app/)
 </div>
 <br>
 <br>
