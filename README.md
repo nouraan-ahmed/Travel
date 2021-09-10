@@ -7,11 +7,24 @@ Travel Agency Project using Bootstrap for styling & Wow.js for animation
 <br>
 <br>
 
+## Idea
+A travel agency that provides travel and tourism-related services to the general public on behalf of accommodation or travel suppliers to offer different kinds of travelling packages for each destination.
+
 <div align="center">
-<img src="https://github.com/nouraan-ahmed/Travel/blob/master/Travel/img/out1.jpeg" width="850" height="500" > 
-<img src="https://github.com/nouraan-ahmed/Travel/blob/master/Travel/img/out2.jpeg" width="850" height="500" >
-<img src="https://github.com/nouraan-ahmed/Travel/blob/master/Travel/img/out3.jpeg" width="850" height="500" > 
-<img src="https://github.com/nouraan-ahmed/Travel/blob/master/Travel/img/out4.jpeg" width="850" height="500" > 
-<img src="https://github.com/nouraan-ahmed/Travel/blob/master/Travel/img/out5.jpeg" width="850" height="500" > 
+<img src="https://github.com/nouraan-ahmed/Travel/blob/master/img/out1.jpeg" width="850" height="500" > 
 <div>
+
+## Services
+
+* It also Offer different packages to explore the world
+* Save time and money: comfort and the best prices for your business and clients
+  * Enormous selection of travel services 
+  * Incredibly low prices
+  * Exclusive manual precheck of bookings
+  * Attractive loyalty program 
+* Compare between cities , just Select two cities to view living costs & Health care in each of them 
+* Customer feedback is appreciated
+* Contact Us anytime
+
+
 
