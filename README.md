@@ -4,16 +4,10 @@ Travel Agency Project using Bootstrap for styling & Wow.js for animation
 
 [A live version of this Website is hosted using github pages](https://nouraan-ahmed.github.io/Travel/)
 
-<br>
-<br>
-
 ## Idea
 A travel agency that provides travel and tourism-related services to the general public on behalf of accommodation or travel suppliers to offer different kinds of travelling packages for each destination.
 
-<div align="center">
-<img src="https://github.com/nouraan-ahmed/Travel/blob/master/img/out1.jpeg" width="850" height="500" > 
-<div>
-
+ 
 ## Services
 
 * It also Offer different packages to explore the world
@@ -26,5 +20,8 @@ A travel agency that provides travel and tourism-related services to the general
 * Customer feedback is appreciated
 * Contact Us anytime
 
+<div align="center">
+<img src="https://github.com/nouraan-ahmed/Travel/blob/master/img/out1.jpeg" width="850" height="500" > 
+<div>
 
 
