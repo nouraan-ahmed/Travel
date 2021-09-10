@@ -1,8 +1,8 @@
 # Travel
-Travel Agency Project using Bootstrapcfor styling & Wow.js for animation
-## Website
+Travel Agency Project using Bootstrap for styling & Wow.js for animation
+## Hosting the Website
 
-[Travel Website Link](https://61376b8d38b21bb52ffe92fa--modest-banach-d3fe93.netlify.app/)
+[A live version of this Website is hosted using github pages](https://nouraan-ahmed.github.io/Travel/)
 
 <br>
 <br>
